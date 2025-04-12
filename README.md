@@ -1,2 +1,2 @@
 # Research
-Comparison of Microservice Architecture using REST API and GraphQL
+A Performance Comparison Between REST API and GraphQL in Microservice Architecture
